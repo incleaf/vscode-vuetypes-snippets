@@ -1,0 +1,212 @@
+{
+  "VueTypes.any": {
+    "prefix": "vtan",
+    "body": ["VueTypes.any,$0"],
+    "description": "VueTypes.any"
+  },
+  "VueTypes.any.isRequired": {
+    "prefix": "vtanr",
+    "body": ["VueTypes.any.isRequired,$0"],
+    "description": "VueTypes.any.isRequired"
+  },
+  "VueTypes.any.def": {
+    "prefix": "vtand",
+    "body": ["VueTypes.any.def($1),$0"],
+    "description": "VueTypes.any.def"
+  },
+  "VueTypes.array": {
+    "prefix": "vta",
+    "body": ["VueTypes.array,$0"],
+    "description": "VueTypes.array"
+  },
+  "VueTypes.array.isRequired": {
+    "prefix": "vtar",
+    "body": ["VueTypes.array.isRequired,$0"],
+    "description": "VueTypes.array.isRequired"
+  },
+  "VueTypes.array.def": {
+    "prefix": "vtad",
+    "body": ["VueTypes.array.def($1),$0"],
+    "description": "VueTypes.array.def"
+  },
+  "VueTypes.bool": {
+    "prefix": "vtb",
+    "body": ["VueTypes.bool,$0"],
+    "description": "VueTypes.bool"
+  },
+  "VueTypes.bool.isRequired": {
+    "prefix": "vtbr",
+    "body": ["VueTypes.bool.isRequired,$0"],
+    "description": "VueTypes.bool.isRequired"
+  },
+  "VueTypes.bool.def": {
+    "prefix": "vtbd",
+    "body": ["VueTypes.bool.def($1),$0"],
+    "description": "VueTypes.bool.def"
+  },
+  "VueTypes.func": {
+    "prefix": "vtf",
+    "body": ["VueTypes.func,$0"],
+    "description": "VueTypes.func"
+  },
+  "VueTypes.func.isRequired": {
+    "prefix": "vtfr",
+    "body": ["VueTypes.func.isRequired,$0"],
+    "description": "VueTypes.func.isRequired"
+  },
+  "VueTypes.func.def": {
+    "prefix": "vtfd",
+    "body": ["VueTypes.func.def($1),$0"],
+    "description": "VueTypes.func.def"
+  },
+  "VueTypes.number": {
+    "prefix": "vtn",
+    "body": ["VueTypes.number,$0"],
+    "description": "VueTypes.number"
+  },
+  "VueTypes.number.isRequired": {
+    "prefix": "vtnr",
+    "body": ["VueTypes.number.isRequired,$0"],
+    "description": "VueTypes.number.isRequired"
+  },
+  "VueTypes.number.def": {
+    "prefix": "vtnd",
+    "body": ["VueTypes.number.def($1),$0"],
+    "description": "VueTypes.number.def"
+  },
+  "VueTypes.integer": {
+    "prefix": "vti",
+    "body": ["VueTypes.integer,$0"],
+    "description": "VueTypes.integer"
+  },
+  "VueTypes.integer.isRequired": {
+    "prefix": "vtir",
+    "body": ["VueTypes.integer.isRequired,$0"],
+    "description": "VueTypes.integer.isRequired"
+  },
+  "VueTypes.integer.def": {
+    "prefix": "vtid",
+    "body": ["VueTypes.integer.def($1),$0"],
+    "description": "VueTypes.integer.def"
+  },
+  "VueTypes.object": {
+    "prefix": "vto",
+    "body": ["VueTypes.object,$0"],
+    "description": "VueTypes.object"
+  },
+  "VueTypes.object.isRequired": {
+    "prefix": "vtor",
+    "body": ["VueTypes.object.isRequired,$0"],
+    "description": "VueTypes.object.isRequired"
+  },
+  "VueTypes.object.def": {
+    "prefix": "vtod",
+    "body": ["VueTypes.object.def($1),$0"],
+    "description": "VueTypes.object.def"
+  },
+  "VueTypes.string": {
+    "prefix": "vts",
+    "body": ["VueTypes.string,$0"],
+    "description": "VueTypes.string"
+  },
+  "VueTypes.string.isRequired": {
+    "prefix": "vtsr",
+    "body": ["VueTypes.string.isRequired,$0"],
+    "description": "VueTypes.string.isRequired"
+  },
+  "VueTypes.string.def": {
+    "prefix": "vtsd",
+    "body": ["VueTypes.string.def($1),$0"],
+    "description": "VueTypes.string.def"
+  },
+  "VueTypes.instanceOf": {
+    "prefix": "vtio",
+    "body": ["VueTypes.instanceOf,$0"],
+    "description": "VueTypes.instanceOf"
+  },
+  "VueTypes.instanceOf.isRequired": {
+    "prefix": "vtior",
+    "body": ["VueTypes.instanceOf.isRequired,$0"],
+    "description": "VueTypes.instanceOf.isRequired"
+  },
+  "VueTypes.instanceOf.def": {
+    "prefix": "vtiod",
+    "body": ["VueTypes.instanceOf.def($1),$0"],
+    "description": "VueTypes.instanceOf.def"
+  },
+  "VueTypes.oneOf": {
+    "prefix": "vtoo",
+    "body": ["VueTypes.oneOf,$0"],
+    "description": "VueTypes.oneOf"
+  },
+  "VueTypes.oneOf.isRequired": {
+    "prefix": "vtoor",
+    "body": ["VueTypes.oneOf.isRequired,$0"],
+    "description": "VueTypes.oneOf.isRequired"
+  },
+  "VueTypes.oneOf.def": {
+    "prefix": "vtood",
+    "body": ["VueTypes.oneOf.def($1),$0"],
+    "description": "VueTypes.oneOf.def"
+  },
+  "VueTypes.oneOfType": {
+    "prefix": "vtoot",
+    "body": ["VueTypes.oneOfType,$0"],
+    "description": "VueTypes.oneOfType"
+  },
+  "VueTypes.oneOfType.isRequired": {
+    "prefix": "vtootr",
+    "body": ["VueTypes.oneOfType.isRequired,$0"],
+    "description": "VueTypes.oneOfType.isRequired"
+  },
+  "VueTypes.oneOfType.def": {
+    "prefix": "vtootd",
+    "body": ["VueTypes.oneOfType.def($1),$0"],
+    "description": "VueTypes.oneOfType.def"
+  },
+  "VueTypes.arrayOf": {
+    "prefix": "vtao",
+    "body": ["VueTypes.arrayOf,$0"],
+    "description": "VueTypes.arrayOf"
+  },
+  "VueTypes.arrayOf.isRequired": {
+    "prefix": "vtaor",
+    "body": ["VueTypes.arrayOf.isRequired,$0"],
+    "description": "VueTypes.arrayOf.isRequired"
+  },
+  "VueTypes.arrayOf.def": {
+    "prefix": "vtaod",
+    "body": ["VueTypes.arrayOf.def($1),$0"],
+    "description": "VueTypes.arrayOf.def"
+  },
+  "VueTypes.objectOf": {
+    "prefix": "vtsho",
+    "body": ["VueTypes.objectOf,$0"],
+    "description": "VueTypes.objectOf"
+  },
+  "VueTypes.objectOf.isRequired": {
+    "prefix": "vtobor",
+    "body": ["VueTypes.objectOf.isRequired,$0"],
+    "description": "VueTypes.objectOf.isRequired"
+  },
+  "VueTypes.objectOf.def": {
+    "prefix": "vtobod",
+    "body": ["VueTypes.objectOf.def($1),$0"],
+    "description": "VueTypes.objectOf.def"
+  },
+  "VueTypes.shape": {
+    "prefix": "vtsh",
+    "body": ["VueTypes.shape,$0"],
+    "description": "VueTypes.shape"
+  },
+  "VueTypes.shape.isRequired": {
+    "prefix": "vtshr",
+    "body": ["VueTypes.shape.isRequired,$0"],
+    "description": "VueTypes.shape.isRequired"
+  },
+  "VueTypes.shape.def": {
+    "prefix": "vtshd",
+    "body": ["VueTypes.shape.def($1),$0"],
+    "description": "VueTypes.shape.def"
+  }
+}

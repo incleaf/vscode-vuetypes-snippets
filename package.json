@@ -1,0 +1,21 @@
+{
+    "name": "vuetypes-snippets",
+    "displayName": "VueTypes snippets",
+    "description": "A collection of VueTypes snippet",
+    "version": "0.0.1",
+    "publisher": "incleaf",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
