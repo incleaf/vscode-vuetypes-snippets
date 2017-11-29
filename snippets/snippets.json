@@ -136,17 +136,17 @@
   },
   "VueTypes.oneOf": {
     "prefix": "vtoo",
-    "body": ["VueTypes.oneOf,$0"],
+    "body": ["VueTypes.oneOf([$1]),$0"],
     "description": "VueTypes.oneOf"
   },
   "VueTypes.oneOf.isRequired": {
     "prefix": "vtoor",
-    "body": ["VueTypes.oneOf.isRequired,$0"],
+    "body": ["VueTypes.oneOf([$1]).isRequired,$0"],
     "description": "VueTypes.oneOf.isRequired"
   },
   "VueTypes.oneOf.def": {
     "prefix": "vtood",
-    "body": ["VueTypes.oneOf.def($1),$0"],
+    "body": ["VueTypes.oneOf([$1]).def($2),$0"],
     "description": "VueTypes.oneOf.def"
   },
   "VueTypes.oneOfType": {
@@ -166,47 +166,47 @@
   },
   "VueTypes.arrayOf": {
     "prefix": "vtao",
-    "body": ["VueTypes.arrayOf,$0"],
+    "body": ["VueTypes.arrayOf($1),$0"],
     "description": "VueTypes.arrayOf"
   },
   "VueTypes.arrayOf.isRequired": {
     "prefix": "vtaor",
-    "body": ["VueTypes.arrayOf.isRequired,$0"],
+    "body": ["VueTypes.arrayOf($1).isRequired,$0"],
     "description": "VueTypes.arrayOf.isRequired"
   },
   "VueTypes.arrayOf.def": {
     "prefix": "vtaod",
-    "body": ["VueTypes.arrayOf.def($1),$0"],
+    "body": ["VueTypes.arrayOf($1).def($2),$0"],
     "description": "VueTypes.arrayOf.def"
   },
   "VueTypes.objectOf": {
     "prefix": "vtsho",
-    "body": ["VueTypes.objectOf,$0"],
+    "body": ["VueTypes.objectOf($1),$0"],
     "description": "VueTypes.objectOf"
   },
   "VueTypes.objectOf.isRequired": {
     "prefix": "vtobor",
-    "body": ["VueTypes.objectOf.isRequired,$0"],
+    "body": ["VueTypes.objectOf($1).isRequired,$0"],
     "description": "VueTypes.objectOf.isRequired"
   },
   "VueTypes.objectOf.def": {
     "prefix": "vtobod",
-    "body": ["VueTypes.objectOf.def($1),$0"],
+    "body": ["VueTypes.objectOf($1).def($2),$0"],
     "description": "VueTypes.objectOf.def"
   },
   "VueTypes.shape": {
     "prefix": "vtsh",
-    "body": ["VueTypes.shape,$0"],
+    "body": ["VueTypes.shape({$1}),$0"],
     "description": "VueTypes.shape"
   },
   "VueTypes.shape.isRequired": {
     "prefix": "vtshr",
-    "body": ["VueTypes.shape.isRequired,$0"],
+    "body": ["VueTypes.shape({$1}).isRequired,$0"],
     "description": "VueTypes.shape.isRequired"
   },
   "VueTypes.shape.def": {
     "prefix": "vtshd",
-    "body": ["VueTypes.shape.def($1),$0"],
+    "body": ["VueTypes.shape({$1}).def({$2}),$0"],
     "description": "VueTypes.shape.def"
   }
 }

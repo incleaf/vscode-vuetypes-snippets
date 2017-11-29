@@ -1,8 +1,8 @@
 {
     "name": "vuetypes-snippets",
     "displayName": "VueTypes snippets",
-    "description": "A collection of VueTypes snippet",
-    "version": "0.0.1",
+    "description": "A collection of vue-types snippet",
+    "version": "0.0.2",
     "publisher": "incleaf",
     "engines": {
         "vscode": "^1.18.0"
@@ -10,6 +10,17 @@
     "categories": [
         "Snippets"
     ],
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "homepage": "https://github.com/incleaf/vscode-vuetypes-snippets/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/incleaf/vscode-vuetypes-snippets/issues",
+        "email": "incleaf@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/incleaf/vscode-vuetypes-snippets.git"
+    },
     "contributes": {
         "snippets": [
             {

@@ -1,6 +1,6 @@
 # vuetypes-snippets
 
-This is a collection of [vue-types](https://www.npmjs.com/package/vue-types) snippets
+A collection of [vue-types](https://www.npmjs.com/package/vue-types) snippets
 
 ## Snippets
 |prefix|body|
