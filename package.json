@@ -1,8 +1,8 @@
 {
     "name": "vuetypes-snippets",
-    "displayName": "VueTypes snippets",
+    "displayName": "VueTypes (vue-types) snippets",
     "description": "A collection of vue-types snippet",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "incleaf",
     "engines": {
         "vscode": "^1.18.0"
