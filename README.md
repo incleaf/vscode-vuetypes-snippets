@@ -2,6 +2,10 @@
 
 A collection of [vue-types](https://www.npmjs.com/package/vue-types) snippets
 
+## Demo
+
+![Demo](images/demo.gif)
+
 ## Snippets
 |prefix|body|
 |---|---|
